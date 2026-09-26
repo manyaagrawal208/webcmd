@@ -25,7 +25,6 @@ copy .env.example .env
 npm start
 ```
 
-Open http://localhost:3000
 
 ## Without a Gemini key
 
